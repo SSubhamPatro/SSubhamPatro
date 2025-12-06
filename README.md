@@ -8,7 +8,7 @@
 - 🌱 Currently mastering **Spring Boot Mail, Scheduling & In-Memory Caching**
 - ⚡ Passionate about building **scalable, efficient & production-ready backend systems**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, SQL**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **subhampatra160@gmail.com**
 
 ---
 
