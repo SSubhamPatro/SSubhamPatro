@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 
 #### 🧩 Backend Core
-- **Java (Core, OOP, Collections, Exception Handling, Multithreading)**
+- **Java (Core, OOP, Collections, Exception Handling)**
 - **Spring Core | Spring MVC | Spring Boot**
 - **Spring Data JPA | Hibernate | JDBC**
 - **Servlet | JSP**
