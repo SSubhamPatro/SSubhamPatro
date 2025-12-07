@@ -65,9 +65,7 @@ REST API project featuring authentication, CRUD operations, validation, and SQL 
 #### 🔹 **Student Management System (Spring Boot)**
 A CRUD application following controller–service–repository pattern using Spring Boot and MySQL.
 
-> *(Add your GitHub project links here!)*
 
----
 
 ### 🤝 Connect With Me
 <p>
